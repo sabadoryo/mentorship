@@ -12,22 +12,22 @@ let students = [
     },
     {
         name: 'Nursat',
-        valorantRank: 'iron',
-        age: 88,
+        valorantRank: 'Platina3',
+        age: 20,
     },
     {
         name: 'Irana',
-        valorantRank: 'silver3',
-        mainCharacter: 'breach',
+        valorantRank: 'bronze1',
+        mainCharacter: 'Sage'
     },
     {
         name: 'Zhenya',
         hobby: 'Playing on a guitar',
-        favouriteAnime: 'Bakugan'
+        favouriteAnime: 'One piece'
     },
     {
         name: 'Adina',
-        isSageMain: false,
-        favouriteSkin: 'кальянный гост'
+        isSageMain: true,
+        favouriteSkin: 'игрушечный спектр'
     }
 ]
