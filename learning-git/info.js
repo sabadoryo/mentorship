@@ -27,7 +27,7 @@ let students = [
     },
     {
         name: 'Adina',
-        isSageMain: false,
-        favouriteSkin: 'кальянный гост'
+        isSageMain: true,
+        favouriteSkin: 'игрушечный спектр'
     }
 ]
