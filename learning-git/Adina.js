@@ -12,6 +12,6 @@ class Hero {
     }
 
     incrementKillCount(killCount) {
-        this.armor++; 
+        this.killCount++;
     }
 }
