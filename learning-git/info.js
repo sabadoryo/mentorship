@@ -1,7 +1,7 @@
 const author = {
     name: 'Yernar',
     rank: 'radiant',
-    isTheBestPlayerInTheWorld: false
+    isTheBestPlayerInTheWorld: true
 }
 
 let students = [
