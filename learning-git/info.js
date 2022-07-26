@@ -12,8 +12,8 @@ let students = [
     },
     {
         name: 'Nursat',
-        valorantRank: 'iron',
-        age: 44,
+        valorantRank: 'Platina3',
+        age: 20,
     },
     {
         name: 'Irana',
