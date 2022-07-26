@@ -23,7 +23,7 @@ let students = [
     {
         name: 'Zhenya',
         hobby: 'Playing on a guitar',
-        favouriteAnime: 'Bakugan'
+        favouriteAnime: 'One piece'
     },
     {
         name: 'Adina',
