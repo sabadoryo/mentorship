@@ -1,7 +1,7 @@
 const author = {
-    name: 'Askhat',
+    name: 'Yernar',
     rank: 'radiant',
-    isTheBestPlayerInTheWorld: false
+    isTheBestPlayerInTheWorld: true
 }
 
 let students = [
@@ -13,12 +13,12 @@ let students = [
     {
         name: 'Nursat',
         valorantRank: 'iron',
-        age: 44,
+        age: 88,
     },
     {
         name: 'Irana',
         valorantRank: 'silver3',
-        mainCharacter: 'breach'
+        mainCharacter: 'breach',
     },
     {
         name: 'Zhenya',
