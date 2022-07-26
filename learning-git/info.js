@@ -17,8 +17,8 @@ let students = [
     },
     {
         name: 'Irana',
-        valorantRank: 'silver3',
-        mainCharacter: 'breach'
+        valorantRank: 'bronze1',
+        mainCharacter: 'Sage'
     },
     {
         name: 'Zhenya',
