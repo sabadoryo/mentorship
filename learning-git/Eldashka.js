@@ -4,7 +4,7 @@ class Hero {
     killCount = 0;
 
     getHealth() {
-        return 100
+        return 100;
     }
 
     getUltimateAbilityButton() {

@@ -1,5 +1,5 @@
 const author = {
-    name: 'Yernar',
+    name: 'Askhat',
     rank: 'radiant',
     isTheBestPlayerInTheWorld: false
 }
