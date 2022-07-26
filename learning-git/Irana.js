@@ -1,17 +1,17 @@
 class Hero {
-    gun = 'vandam';
-    armor = 151;
+    gun = 'vandal';
+    armor = 150;
     killCount = 0;
 
     getHealth() {
-        return 100
+        return 100;
     }
 
     getUltimateAbilityButton() {
-        return 'A';
+        return 'X';
     }
 
     incrementKillCount(killCount) {
-        this.armor++; 
+        this.killCount++; 
     }
 }
