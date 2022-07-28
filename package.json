@@ -1,0 +1,23 @@
+{
+  "name": "mentorship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabadoryo/mentorship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabadoryo/mentorship/issues"
+  },
+  "homepage": "https://github.com/sabadoryo/mentorship#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
