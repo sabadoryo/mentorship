@@ -10,8 +10,6 @@
 // Output: false, игра еще идет прошло всего 2 раунда
 
 function solution(rounds) {
-    // тут пишите решение
-    console.log('тут ответ')
 }
 
 module.exports = solution

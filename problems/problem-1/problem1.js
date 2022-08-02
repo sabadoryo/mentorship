@@ -12,8 +12,6 @@
 const ageOfDeath = 64;
 
 function solution(ages) {
-    // тут пишите решение
-    console.log('Тут ответ')
 }
 
 

@@ -8,8 +8,6 @@
 
 
 function solution(student) {
-    // Тут пишите решение
-    console.log('Тут ответы')
 }
 
 
