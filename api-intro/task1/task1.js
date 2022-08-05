@@ -2,8 +2,7 @@
 // Answer: ['fact1', 'fact2', 'fact3', 'fact4']
 // Для этой задачи конечно же нужно импортнуть catsFactsApi
 
-async function solution() {
-    return 'ответ';
+async function solution(){
 }
 
 export default solution
