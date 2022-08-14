@@ -1,8 +1,5 @@
-
-import https from 'https';
-
 async function getData(url) {
-    if (url === 'https://api.imgflip.com/get_memes') {
+    if (url === "https://api.imgflip.com/get_memes") {
         return new Promise((resolve, reject) => {
             setTimeout(resolve, 4000, 'ImgFlip')
         })

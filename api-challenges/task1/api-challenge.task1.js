@@ -5,10 +5,29 @@
 // Output: string. В ответ верните, то чем займется Томми например 'Cat Movie' || ''
 // Для этой задачи используйте fakeApi.js and tommy.json (json != js, use rs/readfile not import);
 // use google!
+import { readFile } from 'fs/promises';
+import getData from '../fakeApi.js'
+
+const tommyData = JSON.parse(
+    await readFile(
+      new URL('../tommy.json', import.meta.url)
+    ));
+
 
 function solution() {
+    const promises = [];
 
+    for (const key in tommyData) {
+        for (const value of tommyData[key]) {
+            let promise = getData(value.url)
+            promises.push(promise);      
+        }
+    }
+
+    return Promise.race(promises);
 }
+
+solution()
 
 export default solution;
 
